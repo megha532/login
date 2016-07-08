@@ -1,4 +1,5 @@
 <?php
+//location of this file : project>config>google_auth.php
 return array(
     "base_url"=>"https://laravel-intro-imemy.c9users.io/gauth/auth",
     "providers"=>array(
